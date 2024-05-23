@@ -1,7 +1,7 @@
 # Recognizing-hand-written-digits-using-PCA
 Recognizing hand-written digits using PCA
 
-## get sklearn dataset
+## Get sklearn dataset
 from sklearn.datasets import load_digits
 digits = load_digits()
 
